@@ -21,7 +21,7 @@ Este proyecto consiste en un script en Python diseñado para automatizar el proc
 1. Clona este repositorio en tu máquina local:
 
     ```bash
-    git clone https://github.com/tu_usuario/automatizacion-afip.git
+    git clone https://github.com/francolautaro2/facturaElectronica.git
     ```
 
 2. Instala las dependencias necesarias:

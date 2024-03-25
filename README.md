@@ -46,6 +46,6 @@ Este proyecto consiste en un script en Python diseñado para automatizar el proc
 
 Las contribuciones son bienvenidas. Si encuentras algún problema o tienes alguna sugerencia de mejora, por favor, abre un issue en este repositorio o envía un pull request con tus cambios propuestos.
 
-## Agradecimientos
+## Aclaraciones
 
-Este proyecto se inspira en la necesidad de agilizar y simplificar el proceso de emisión de facturas para empresas y emprendedores, y se beneficia del trabajo de la comunidad de desarrolladores de código abierto.
+No me hago responsable de su uso, esto fue creado con el objetivo de agilizar el proceso de emision de facturas ante el AFIP para ayudar a los contribuyentes.
